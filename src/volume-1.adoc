@@ -1,0 +1,58 @@
+// ============================================================
+// Volume 1 — Integration Profiles
+// ============================================================
+
+== Volume 1 — Integration Profiles
+
+=== {supplement-short} Integration Profile
+
+// Describe the integration profile at a high level.
+
+==== Actors and Transactions
+
+// List the actors and transactions defined in this supplement.
+
+[cols="1,1,2", options="header"]
+|===
+| Actor | Transaction | Description
+| _Actor Name_ | _Transaction ID_ [DEV-XX] | _Brief description_
+|===
+
+// Actor diagram (replace with your own)
+// image::actor-diagram.png[Actor Diagram]
+
+==== Actor Options
+
+// Describe any options available to actors.
+
+[cols="1,1,1", options="header"]
+|===
+| Actor | Option | Description
+| _Actor Name_ | _Option Name_ | _Brief description_
+|===
+
+==== Actor Required Groupings
+
+// Describe any required actor groupings.
+
+_None at this time._
+
+==== Profile Overview
+
+// Provide a narrative overview of the profile — the use case,
+// the workflow, and how the actors interact.
+
+===== Use Case
+
+// Describe the clinical or operational scenario this profile addresses.
+
+===== Process Flow
+
+// Describe the sequence of events. Include a sequence diagram if helpful.
+
+// image::process-flow.png[Process Flow]
+
+==== Security Considerations
+
+// Describe security considerations specific to this profile.
+// Reference IHE ITI security profiles (e.g., ATNA, XUA) as appropriate.
