@@ -38,11 +38,17 @@ make docker-html
 make docker-pdf
 ```
 
-### Publishing
+### Viewing
 
-Push to `main` and the GitHub Actions workflow will automatically:
-1. Render the AsciiDoc to HTML and PDF
-2. Deploy the output to GitHub Pages
+GitHub renders AsciiDoc natively — just click any `.adoc` file to read it in your browser.
+
+### Built Output (HTML + PDF)
+
+Every push to `main` (and every PR) triggers a GitHub Actions build that produces HTML and PDF versions. To download them:
+
+1. Go to the **Actions** tab
+2. Click the latest successful build
+3. Scroll to **Artifacts** and download `supplement-output`
 
 ## Contributing
 
