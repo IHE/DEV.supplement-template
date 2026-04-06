@@ -1,5 +1,5 @@
 OUTPUT_DIR = output
-SRC_DIR = src
+SRC_DIR = AsciiDoc_Source
 MAIN = $(SRC_DIR)/main.adoc
 
 .PHONY: all html pdf clean docker-html docker-pdf

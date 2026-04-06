@@ -12,10 +12,10 @@
 
 ### Editing
 
-The supplement source files are in `src/` as AsciiDoc (`.adoc`) files.
+The supplement source files are in `AsciiDoc_Source/` as AsciiDoc (`.adoc`) files.
 
-- `src/main.adoc` — the master document (includes all other files)
-- `src/metadata.adoc` — supplement metadata (title, status, revision)
+- `AsciiDoc_Source/main.adoc` — the master document (includes all other files)
+- `AsciiDoc_Source/metadata.adoc` — supplement metadata (title, status, revision)
 
 ### Local Preview
 

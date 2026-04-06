@@ -33,14 +33,14 @@ jobs:
             -b html5 \
             -D output \
             -o index.html \
-            src/main.adoc
+            AsciiDoc_Source/main.adoc
 
       - name: Build PDF
         run: |
           asciidoctor-pdf \
             -D output \
             -o supplement.pdf \
-            src/main.adoc
+            AsciiDoc_Source/main.adoc
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
