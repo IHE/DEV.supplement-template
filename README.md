@@ -15,9 +15,6 @@
 The supplement source files are in `src/` as AsciiDoc (`.adoc`) files.
 
 - `src/main.adoc` — the master document (includes all other files)
-- `src/volume-1.adoc` — Volume 1: Integration Profiles
-- `src/volume-2.adoc` — Volume 2: Transactions
-- `src/volume-3.adoc` — Volume 3: Content Modules (if applicable)
 - `src/metadata.adoc` — supplement metadata (title, status, revision)
 
 ### Local Preview

@@ -36,14 +36,3 @@ This supplement to the IHE Devices Technical Framework defines...
 
 // None yet.
 
-<<<
-
-include::volume-1.adoc[]
-
-<<<
-
-include::volume-2.adoc[]
-
-<<<
-
-include::volume-3.adoc[]
